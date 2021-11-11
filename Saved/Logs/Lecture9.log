@@ -1437,3 +1437,14 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.11-09.16.24:182][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.11.11-09.16.24:182][564]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.11.11-09.16.25:390][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.11-09.22.17:969][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.11.11-09.22.17:991][218]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture9/Saved/FirstPersonExampleMapEAB90D5248ED989FA028EE98272780A0.tmp' to '../../../../UnrealEngine Projects/Lecture9/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.11-09.22.17:993][218]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2021.11.11-09.22.18:548][218]LogSavePackage: Moving '../../../../UnrealEngine Projects/Lecture9/Saved/FirstPersonExampleMap_BuiltData07CD2B0F4DA70165C8DD7B903CD7CA0A.tmp' to '../../../../UnrealEngine Projects/Lecture9/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.11-09.22.18:549][218]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2021.11.11-09.22.18:557][218]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.22.18:557][218]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.11-09.22.18:558][218]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.11-09.22.19:983][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
